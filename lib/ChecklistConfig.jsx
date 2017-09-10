@@ -35,6 +35,8 @@ import {BubbleCheckList} from "./CheckListDb";
 import {aBubbleCheckList} from "./CheckListDb";
 import Spinner from './Spinner.jsx';
 import { Meteor } from 'meteor/meteor';
+import CheckListEditing from './CheckListEditing.jsx';
+import CheckListCreation from './CheckListCreation.jsx';
 
 
 
